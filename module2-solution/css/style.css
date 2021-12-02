@@ -10,10 +10,12 @@
 }
 
 .title{
-  position: relative;
+  position: absolute;
   background-color: pink;
   top: 0;
   right: 0;
+  text-align: center;
+
 }
 
 @media (min-width: 992px) {
