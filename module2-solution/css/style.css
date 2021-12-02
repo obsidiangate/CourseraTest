@@ -22,7 +22,7 @@
   body{
     background-color: lightgreen;
   }
-  .sections:nth-child(1), .sections:nth-child(2{
+  .sections:nth-child(1), .sections:nth-child(2){
     width: 44%;
   }
 }
