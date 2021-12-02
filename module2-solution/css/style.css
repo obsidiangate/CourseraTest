@@ -7,7 +7,7 @@ h1{
 }
 
 p {
-  background-color: #bfbfbf;
+  background-color: blue;
   border: 2px solid black;
   height: 150px;
   margin-right: 10px;
@@ -22,44 +22,34 @@ p {
 }
 
 #p1 {
-  background-color: #D59898;
+  background-color: blue;
   position: absolute;
   top: 0;
   right: 0;
   font-weight: bold;
   height: 35px;
   width: 120px;
-  padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
 }
+
 #p2 {
-  background-color:#C14543 ;
-  color: white;
+  background-color: blue;
   position: absolute;
   top: 0;
   right: 0;
-  font-weight: bold;
   height: 35px;
   width: 120px;
-  padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
 }
+
 #p3 {
  background-color: #E5D198;
   position: absolute;
   top: 0;
   right: 0;
-  font-weight: bold;
   height: 35px;
   width: 120px;
-  padding: 10px;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-
 }
 
 
