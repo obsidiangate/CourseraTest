@@ -10,7 +10,7 @@
 }
 
 .title{
-  position: absolute;
+  position: relative;
   background-color: pink;
   top: 0;
   right: 0;
