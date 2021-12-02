@@ -27,9 +27,9 @@ p {
   position: absolute;
   top: 0;
   right: 0;
-  font-weight: bold;
   height: 35px;
   width: 120px;
+  padding: 10px;
   text-align: center;
 }
 
@@ -41,6 +41,7 @@ p {
   right: 0;
   height: 35px;
   width: 120px;
+  padding: 10px
   text-align: center;
 }
 
@@ -52,6 +53,7 @@ p {
   right: 0;
   height: 35px;
   width: 120px;
+  padding: 10px
   text-align: center;
 }
 
