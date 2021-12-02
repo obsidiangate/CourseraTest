@@ -14,13 +14,19 @@
     background-color: lightblue;
   }
   .sections{
-    float: left;
+    width: 28%;
   }
 }
 
 @media(min-width: 768px) and (max-width: 991px){
   body{
     background-color: lightgreen;
+  }
+  .sections:nth-child(1), .sections:nth-child(2{
+    width: 50%
+  }
+  .sections:nth-child(3){
+    width: 100%
   }
 }
 
