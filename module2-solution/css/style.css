@@ -1,3 +1,7 @@
+.sections{
+  border: 2px solid black;
+}
+
 @media (min-width: 992px) {
   body {
     background-color: lightblue;
